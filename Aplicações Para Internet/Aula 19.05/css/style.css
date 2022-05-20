@@ -45,6 +45,7 @@ body{
     width: 1200px;
     height: 100%;
     margin: auto;
+    
 }
 
 .mouse{
@@ -72,5 +73,4 @@ body{
     font-size: 30px;
     text-transform: uppercase;
     color: #f9003d;
-    
 }
