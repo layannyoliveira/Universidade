@@ -1,0 +1,17 @@
+*{
+    margin: 0
+}
+.titulo{
+    width: 500px;
+    height: 150px;
+    background-color: rgb(204, 33, 90);
+    color: white;
+    font-size: 2em;
+    display: flex;
+    align-items: flex-end;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu li{
+    list-style: none;
+}
