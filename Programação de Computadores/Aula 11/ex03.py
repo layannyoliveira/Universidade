@@ -3,6 +3,7 @@ texto = input("Digite um texto: ")
 inversa = ""
 
 for letra in texto: 
+    print(letra)
     inversa = letra + inversa
 
 print(inversa)
