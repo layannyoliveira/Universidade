@@ -1,0 +1,29 @@
+﻿cod_uf,estado,regiao,uf
+11,Rondônia,Norte,RO
+12,Acre,Norte,AC
+13,Amazonas,Norte,AM
+14,Roraima,Norte,RR
+15,Pará,Norte,PA
+16,Amapá,Norte,AP
+17,Tocantins,Norte,TO
+21,Maranhão,Nordeste,MA
+22,Piauí,Nordeste,PI
+23,Ceará,Nordeste,CE
+24,Rio Grande do Norte,Nordeste,RN
+25,Paraíba,Nordeste,PB
+26,Pernambuco,Nordeste,PE
+27,Alagoas,Nordeste,AL
+28,Sergipe,Nordeste,SE
+29,Bahia,Nordeste,BA
+31,Minas Gerais,Sudeste,MG
+32,Espírito Santo,Sudeste,ES
+33,Rio de Janeiro,Sudeste,RJ
+35,São Paulo,Sudeste,SP
+41,Paraná,Sul,PR
+42,Santa Catarina,Sul,SC
+43,Rio Grande do Sul,Sul,RS
+50,Mato Grosso do Sul,Centro-Oeste,MS
+51,Mato Grosso,Centro-Oeste,MT
+52,Goiás,Centro-Oeste,GO
+53,Distrito Federal,Centro-Oeste,DF
+76,,Brasil,BR

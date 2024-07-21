@@ -1,0 +1,8 @@
+Barry Burd
+CEO
+5000,00
+Harriet Ritter
+Diretor
+7000,00
+Executivo honorários do Dia
+1000,00
