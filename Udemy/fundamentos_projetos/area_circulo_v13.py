@@ -1,7 +1,11 @@
 # import math
 from math import pi
 import sys
+# import errno
 
+def help():
+    print("Valor do raio não informado")
+    print("Sintaxe: {} <raio>".format(sys.argv[0]))
 
 def circulo(raio):
     return pi * float(raio) ** 2
@@ -9,8 +13,8 @@ def circulo(raio):
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
-        print("Valor do raio não informado")
-        print(f"sintaxe: {sys.argv[0]} <raio>")  
+        help()
+        # sys.exit(errno.EPERM)
     else: 
         raio = sys.argv[1]
         area = circulo(raio)
